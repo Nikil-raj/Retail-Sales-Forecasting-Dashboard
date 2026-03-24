@@ -11,7 +11,7 @@ This project analyzes Walmart retail sales data to uncover trends, detect anomal
 * 📁 Dashboard → Power BI dashboard (.pbix)
 * 📁 Data → Dataset files
 * 📁 Notebooks → Python analysis & forecasting
-* 📁 SQL → SQL queries
+  
 
 ---
 
@@ -20,7 +20,7 @@ This project analyzes Walmart retail sales data to uncover trends, detect anomal
 * Power BI
 * Python (Pandas, Matplotlib)
 * Forecasting Models (Rolling Mean / Prophet)
-* SQL
+  
 
 ---
 
